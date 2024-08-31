@@ -1,3 +1,4 @@
 ```lua developer```
 
-Discord:  https://discord.gg/Mkcta6ZGCx
+***Discord:***  __https://discord.gg/Mkcta6ZGCx__
+***youtube:*** __https://www.youtube.com/@IntellectualActivities__
