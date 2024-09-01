@@ -1,7 +1,6 @@
 ---join the discord if you need any help or if youd like me to add a specific command.
 getgenv().URL = "" ---Put the pastebin url that u want to use to excute a command
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Intellectual-Activities/Scripts/Scripts/universal%20admin%20Commands%20%5Bdont%20have%20to%20be%20in%20same%20%20server%20to%20use%5D"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Intellectual-Activities/Scripts/Scripts/%5BLoader%5D%20universal%20admin%20commands"))()
 ---[[
 Commands available:
 
