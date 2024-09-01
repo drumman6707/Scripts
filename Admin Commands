@@ -1,0 +1,38 @@
+---join the discord if you need any help or if youd like me to add a specific command.
+getgenv().URL = "" ---Put the pastebin url that u want to use to excute a command
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Intellectual-Activities/Scripts/Scripts/universal%20admin%20Commands%20%5Bdont%20have%20to%20be%20in%20same%20%20server%20to%20use%5D"))()
+
+---[[
+Commands available:
+
+1. bring all   
+
+2. bring [target] 
+
+3. kick all [reason]
+
+4. kick [target] [reason]
+
+5. spawnarena all 
+
+6. arena [target]
+
+7. destroy arena
+
+Examples:
+
+1. bring all
+
+2. bring Intellectual
+
+3. kick all [testing this script for kick all]
+
+4. kick jxstin87 [testing this script for kick target]
+
+5. spawnarena all 
+
+6. arena jxstin87
+
+7. destroy arena
+
+]]
