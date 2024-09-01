@@ -1,4 +1,4 @@
-[DO NOT USE] Using this loader instead of loadstring will result in losing control over the commands executed on players using your script. USE loadstring.
+---[DO NOT USE] Using this loader instead of loadstring will result in losing control over the commands executed on players using your script. USE loadstring.
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
