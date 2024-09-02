@@ -1,4 +1,3 @@
 ---The webhook will send a notification to the specified Discord channel when a player is kicked for using an unauthorized script.
 getgenv().WebhookUrl = "" ---Set the Discord Webhook URL here.  ""
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Intellectual-Activities/Scripts/Scripts/%5Bloader%20for%20anti%20cheat%20script%5D%20DO%20NOT%20USE%20THIS%20WITHOUT%20LOADSTRING"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Intellectual-Activities/Scripts/Scripts/%5BLoader%5D%20Anti%20Cheat"))()
